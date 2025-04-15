@@ -9,6 +9,7 @@ This is of course not the complete functional description of how the ECU works, 
 
 
 # Why cloudless
+- Ummm...  ...Solar
 - Firmware updates are being pushed to my ECU-R without any notice or release notes 
 - I want to prevent others from being able to shut down my PV installation
 - All parameters (even more than the EMA cloud holds) is present and is being read from the ECU using the HomeAssistant integration at https://github.com/ksheumaker/homeassistant-apsystems_ecur
